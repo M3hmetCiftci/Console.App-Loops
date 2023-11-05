@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\ConsoleApp-Loops\ConsoleApp-Loops\bin\Debug\ConsoleApp-Loops.exe.config
+C:\Users\asus\source\repos\ConsoleApp-Loops\ConsoleApp-Loops\bin\Debug\ConsoleApp-Loops.exe
+C:\Users\asus\source\repos\ConsoleApp-Loops\ConsoleApp-Loops\bin\Debug\ConsoleApp-Loops.pdb
+C:\Users\asus\source\repos\ConsoleApp-Loops\ConsoleApp-Loops\obj\Debug\ConsoleApp-Loops.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ConsoleApp-Loops\ConsoleApp-Loops\obj\Debug\ConsoleApp-Loops.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ConsoleApp-Loops\ConsoleApp-Loops\obj\Debug\ConsoleApp-Loops.exe
+C:\Users\asus\source\repos\ConsoleApp-Loops\ConsoleApp-Loops\obj\Debug\ConsoleApp-Loops.pdb
